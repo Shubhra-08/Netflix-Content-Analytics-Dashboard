@@ -14,6 +14,10 @@ Interactive Excel dashboard analyzing Netflix content trends, audience segmentat
 - Audience segmentation
 - Content growth trend analysis
 
+### Supporting pivot table
+The workbook also includes advanced supporting analyses using Pivot Tables, percentage distributions, conditional formatting, and segmentation analysis.
+![Pivot Table](pivot_tables.png)
+
 ### Tools Used
 - Microsoft Excel
 - Pivot Tables
